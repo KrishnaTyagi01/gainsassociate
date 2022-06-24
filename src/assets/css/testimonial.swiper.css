@@ -1,0 +1,19 @@
+.testimonial .swiper-slide {
+  transform: scale(0.6);
+  transition: 0.4s;
+}
+
+.testimonial .swiper-slide-active {
+  transform: scale(1);
+  transition: 0.4s;
+}
+
+.testimonial .swiper-pagination {
+  display: none;
+}
+
+@media screen and (max-width: 764px) {
+  .testimonial .swiper-pagination {
+    display: block;
+  }
+}

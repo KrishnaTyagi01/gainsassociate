@@ -1,0 +1,216 @@
+{
+    "data": {
+        "site": {
+            "meta": {
+                "title": "GAINS Associates",
+                "description": "The Most Insightful Crypto Community",
+                "url": "https://www.gains-associates.com",
+                "author": "gains-associates"
+            }
+        },
+        "allFaqJson": {
+            "edges": [
+                {
+                    "node": {
+                        "name": "General",
+                        "lang": "en",
+                        "faq": [
+                            {
+                                "title": "What is GAINS about?",
+                                "content": "<p>GAINS is one of the biggest and most respected crypto communities, created over 2 years ago. We have raised several millions of dollars for many ICOs and we organize fun events with companies so that you can learn more about crypto and blockchain. During these events, participants can compete for prizes sometimes worth over $1,000 by asking questions or showcasing their knowledge! Our members get the chance to invest in the latest and best crypto projects with terms they wouldn’t be able to get as individuals. Our platform allows you to easily keep track of all your investments.</p>"
+                            },
+                            {
+                                "title": "Why the name GAINS?",
+                                "content": "<p>GAINS stands for Group Action Is Never Small, embodying the pooling and collaboration concepts which are also the essence of blockchain and decentralization. We also chose it because we’re obviously here to chase big GAINS :p</p>"
+                            },
+                            {
+                                "title": "How is GAINS different from other communities?",
+                                "content": "<p>We believe in quality over quantity. Instead of offering a constant flow of deals, most of which would result in a loss of over 90% because they were rushed into and lacked proper research, we offer much fewer deals but of much higher quality. We’re the only crypto community in the world to provide both events that involve interaction with crypto companies and investment opportunities. These events give us a unique understanding of the crypto and blockchain space which helps make more educated investment decisions.</p>"
+                            },
+                            {
+                                "title": "Is the platform free?",
+                                "content": "<p>The platform and the registration are totally free, we take a small fee on the pools people contribute to.</p>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "name": "Pools",
+                        "lang": "en",
+                        "faq": [
+                            {
+                                "title": "How does the pool process work on the platform?",
+                                "content": "<p>When a new project is available, you will find it in the pool section under “Upcoming Pools” with a full description of the project and the deal we have in order for you to decide whether you want to invest. You will have the option to pledge for the project, allowing us to gauge the interest. If we run a pool afterwards, you will see it in the “Ongoing” section with the starting date and a contribution link once it’s live, letting you contribute in just a few clicks.</p>"
+                            },
+                            {
+                                "title": "How do I contribute?",
+                                "content": "<p>When a pool is ongoing, you will be able to click on “Contribute” and get the contribution link(s). Just follow the instructions from there, it should be fast and easy but if you have any doubt, don’t hesitate to ask for help in <a target='_blank' href='https://t.me/GainsChat'>chat.</a> We mainly use <a target='_blank' href='https://primablock.com/'>Primablock.</a> Primablock is the most used platform in crypto for fundraising purposes and uses a fully audited smart contract that makes it safe and secure. Never send funds from exchanges, only send from addresses you have full control over.</p>"
+                            },
+                            {
+                                "title": "How do I add my wallet addresses?",
+                                "content": "<p>Under the \"My Wallet\" section you will be able to add, delete and visualize your ETH addresses. To be able to safely link the address to your account and be sure that the address belongs to you, we will ask you to sign a message with your address. The process is fast, simple and explained in the relevant section. More details can also be found <a target='_blank' href='https://support.mycrypto.com/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum'>here.</a> Having registered addresses will allow you to pledge, contribute and then track all your investments.</p>"
+                            },
+                            {
+                                "title": "Where can I see my pool contributions?",
+                                "content": "Under the “My Investments” section, you will have access to all your past contributions from the addresses you’ve added to the platform, which can be done at any point in time. You will have a detailed view for each project with the total contribution, amount of tokens expected, schedule of the distribution and more.</p>"
+                            },
+                            {
+                                "title": "How and when do I get my tokens?",
+                                "content": "Once the tokens are available you will receive them directly to your contributing address. If anything else is required from the contributor in some particular cases, you will receive an email explaining the process. The tokens will be distributed once we get them from the project or the token owner which usually happens directly after the official distribution date."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "name": "Events",
+                        "lang": "en",
+                        "faq": [
+                            {
+                                "title": "What are the events GAINS organizes?",
+                                "content": "<p>GAINS organizes AMAs (Ask Me Anything) and quizzes. We also have many other entertaining events to come.</p>"
+                            },
+                            {
+                                "title": "What do I get from participating in GAINS’ events?",
+                                "content": "<p>GAINS’ events are a unique opportunity to interact in a fun way with busy project leaders who make time for our community. Some of these events are akin to a friendly competition: participants showcase their knowledge and the best are rewarded with a prize.</p>"
+                            },
+                            {
+                                "title": "How does an AMA work?",
+                                "content": "<p>Someone with a clear understanding of the project, its current status and direction for the future (usually one of the founders or a C-level executive) comes in our community and answers questions asked by our members.</p>"
+                            },
+                            {
+                                "title": "How does a quiz work?",
+                                "content": "<p>A quiz is essentially a reverse AMA: the project representative asks tailored questions spanning business, tech, strategy and more. Our members then answer them in the best way they can, casually chatting and cracking jokes in between.</p>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "name": "Community",
+                        "lang": "en",
+                        "faq": [
+                            {
+                                "title": "How do I talk about crypto and interact with other members?",
+                                "content": "<p>We have a community of several thousand members on Telegram and Discord. After joining, you will be able to discuss projects, deals and crypto in general with experienced crypto enthusiasts which will help you get a better grasp of this complex ecosystem.</p>"
+                            },
+                            {
+                                "title": "I want to submit my crypto project to GAINS, how do I get in touch?",
+                                "content": "If you would like to get in touch with us to discuss your project and how we could help or for any other inquiries, please go to our contact page or reach out to us via LinkedIn or Telegram (preferred)."
+                            },
+                            {
+                                "title": "How can I get updates regarding new events or pools?",
+                                "content": "Whenever a pool is available or a change occurs (pledges are open, contributions are available, etc.), you will receive an email notifying you about the change. The same goes for events we host. You will be able to enable or disable the notifications under the “Settings” section in the “Notifications” tab. All the updates will also be posted on our social media platforms: Telegram, Discord, Facebook and others."
+                            },
+                            {
+                                "title": "My native language is not English, can I still participate?",
+                                "content": "<p>The language of the main chat is English but we do have many welcoming groups for local communities. We support numerous languages, you can find the list <a target='_blank' href='https://t.me/GainsANN/915'>here.</a></p>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "name": "Général",
+                        "lang": "fr",
+                        "faq": [
+                            {
+                                "title": "Qu'est-ce que GAINS ?",
+                                "content": "<p>GAINS est l'une des plus grandes et des plus respectées communautés de crypto, créée il y a plus de deux ans. Nous avons levé plusieurs millions de dollars pour de nombreuses ICO et nous organisons des événements amusants avec des entreprises afin que vous puissiez en apprendre davantage sur la crypto et blockchain. Au cours de ces événements, les participants peuvent se disputer des prix d'une valeur parfois supérieure à 1 000 dollars en posant des questions ou en montrant leurs connaissances ! Nos membres ont l'opportunité d'investir dans les derniers et meilleurs projets de crypto avec des conditions qu'ils ne pourraient pas obtenir en tant qu'individus. Notre plateforme vous permet de suivre facilement tous vos investissements.</p>"
+                            },
+                            {
+                                "title": "Pourquoi le nom GAINS?",
+                                "content": "<p>GAINS signifie Group Action Is Never Small (L'action de groupe n'est jamais petite), qui incarne les concepts de mise en commun et de collaboration qui sont également l'essence même de la blockchain et de la décentralisation. Nous l'avons également choisi parce que nous sommes évidemment ici pour obtenir de gros GAINS :p</p>"
+                            },
+                            {
+                                "title": "En quoi GAINS est-il différent des autres communautés?",
+                                "content": "<p>Nous croyons en la qualité plutôt qu'en la quantité. Au lieu de proposer un flux constant d'offres, dont la plupart entraîneraient une perte de plus de 90 % parce qu'elles ont été faites à la hâte et qu'elles n'ont pas fait l'objet de recherches appropriées, nous proposons beaucoup moins d'offres, mais de bien meilleure qualité. Nous sommes la seule communauté de crypto au monde à proposer à la fois des événements qui impliquent une interaction avec des sociétés de crypto et des opportunités d'investissement. Ces événements nous donnent une compréhension unique de l'écosystème crypto et blockchain, ce qui nous aide à prendre des décisions d'investissement plus éclairées.</p>"
+                            },
+                            {
+                                "title": "La plate-forme est-elle gratuite ?",
+                                "content": "<p>La plateforme et l'inscription sont totalement gratuites, nous prenons une commission déduite sur les contributions des gens aux pools</p>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "name": "Pools",
+                        "lang": "fr",
+                        "faq": [
+                            {
+                                "title": "Comment le processus de pool fonctionne-t-il sur la plate-forme ?",
+                                "content": "<p>Lorsqu'un nouveau projet est disponible, vous le trouverez dans la section “Pools à venir” avec une description complète du projet et de l'accord que nous avons conclu afin que vous puissiez décider si vous voulez investir. Vous aurez la possibilité d'indiquer si vous souhaitez contribuer', ce qui nous permettra d'évaluer l'intérêt. Si nous organisons un pool par la suite, vous le verrez dans la section “En cours” avec la date de début et un lien de contribution une fois qu'il sera en ligne, vous permettant de contribuer en quelques clics seulement.</p>"
+                            },
+                            {
+                                "title": "Comment puis-je contribuer ?",
+                                "content": "<p>Lorsqu'un pool est en cours, vous pourrez cliquer sur “Contribuer” et obtenir le(s) lien(s) de contribution. Suivez simplement les instructions à partir de là, cela devrait être rapide et facile mais si vous avez le moindre doute, n'hésitez pas à demander de l'aide dans le <a target='_blank' href='https://t.me/Gains_FR'>chat.</a> Nous utilisons principalement <a target='_blank' href='https://primablock.com/'>Primablock.</a> Primablock est la plateforme la plus utilisée en crypto pour la collecte de fonds et utilise un smart contract entièrement audité qui la rend sûre et sécurisée. N'envoyez jamais de fonds à partir d'échanges, mais uniquement à partir d'adresses dont vous avez le contrôle total.</p>"
+                            },
+                            {
+                                "title": "Comment ajouter les adresses de mon portefeuille crypto?",
+                                "content": "<p>Dans la rubrique \"Mon portefeuille\", vous pourrez ajouter, supprimer et visualiser vos adresses ETH. Pour pouvoir relier l'adresse à votre compte en toute sécurité et être sûr que l'adresse vous appartient, nous vous demanderons de signer un message avec votre adresse. Le processus est rapide, simple et expliqué dans la section correspondante. Vous trouverez également plus de détails <a target='_blank' href='https://support.mycrypto.com/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum'>ici.</a> Le fait d'enregister vos adresses vous permettra de contribuer et ensuite de suivre tous vos investissements.</p>"
+                            },
+                            {
+                                "title": "Où puis-je voir mes contributions aux différents pools?",
+                                "content": "Dans la section \"Mes investissements\", vous aurez accès à toutes vos contributions passées à partir des adresses que vous avez ajoutées à la plateforme, ce qui peut se faire à tout moment. Vous aurez une vue détaillée de chaque projet avec la contribution totale, le montant des tokens attendus, le calendrier de la distribution et plus encore.</p>"
+                            },
+                            {
+                                "title": "Comment et quand puis-je recevoir mes tokens ?",
+                                "content": "Une fois les tokenss disponibles, vous les recevrez directement sur votre adresse de contribution. Si, dans certains cas particuliers, le contributeur doit fournir d'autres informations, vous recevrez un e-mail expliquant la procédure à suivre. Les tokens seront distribués dès que nous les recevrons du projet ou de leur propriétaire, ce qui se produit généralement directement après la date de distribution officielle."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "name": "Évènements",
+                        "lang": "fr",
+                        "faq": [
+                            {
+                                "title": "Quels sont les événements organisés par GAINS ?",
+                                "content": "<p>GAINS organise des AMA (Questions - Réponses) et des quiz. Nous avons également de nombreux autres événements divertissants à venir.</p>"
+                            },
+                            {
+                                "title": "Qu'est-ce que je gagne à participer aux événements de GAINS ?",
+                                "content": "<p>es événements de GAINS sont une occasion unique d'interagir de manière amusante avec des chefs de projet très occupés qui prennent du temps pour notre communauté. Certains de ces événements s'apparentent à une compétition amicale : les participants exposent leurs connaissances et les meilleurs sont récompensés par un prix.</p>"
+                            },
+                            {
+                                "title": "Comment fonctionne une AMA ?",
+                                "content": "<p>Une personne ayant une bonne compréhension du projet, de son état actuel et de son orientation future (généralement l'un des fondateurs ou un cadre dirigeant) vient dans notre communauté et répond aux questions posées par nos membres.</p>"
+                            },
+                            {
+                                "title": "Comment fonctionne un quiz ?",
+                                "content": "<p>Un quiz est en gros une AMA inversée : le représentant du projet pose des questions sur mesure liées au projet et couvrant les domaines du business, de la technologie, de la stratégie, etc. Nos membres y répondent ensuite de la meilleure façon possible, en bavardant tranquillement et en faisant des blagues entre les questions.</p>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "name": "Communauté",
+                        "lang": "fr",
+                        "faq": [
+                            {
+                                "title": "How do I talk about crypto and interact with other members?",
+                                "content": "<p>Nous avons une communauté de plusieurs milliers de membres sur Telegram et Discord. Après avoir rejoint la communauté, vous pourrez discuter de projets, d'opportunités et de crypto en général avec des passionnés de crypto expérimentés qui vous aideront à mieux appréhender cet écosystème complexe.</p>"
+                            },
+                            {
+                                "title": "Je veux soumettre mon projet de crypto à GAINS, comment puis-je entrer en contact ?",
+                                "content": "Si vous souhaitez nous contacter pour discuter de votre projet et de la manière dont nous pourrions vous aider ou pour toute autre demande, veuillez vous rendre sur notre page de contact ou nous contacter via LinkedIn ou Telegram (de préférence)."
+                            },
+                            {
+                                "title": "Comment puis-je obtenir des notifications concernant les nouveaux événements ou les pools ?",
+                                "content": "Chaque fois qu'un nouveau pool est disponible ou qu'un changement se produit (les contributions sont disponibles, etc), vous recevrez un e-mail vous informant de ce changement. Il en va de même pour les événements que nous organisons. Vous pourrez activer ou désactiver les notifications dans la section \"Paramètres\" de l'onglet \"Notifications\". Toutes les mises à jour seront également publiées sur nos réseaux sociaux : Telegram, Discord, Facebook et autres."
+                            },
+                            {
+                                "title": "Ma langue maternelle n'est pas l'anglais, puis-je quand même participer ?",
+                                "content": "<p>La langue du chat principal est l'anglais, mais nous avons de nombreux groupes pour les communautés locales. Nous supportons de nombreuses langues, vous pouvez trouver la liste <a target='_blank' href='https://t.me/GainsANN/915'>ici.</a></p>"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "data": {
+        "ourleaders": [
+            {
+                "name": "Alexandre Raffin",
+                "title": "CEO & Co-Founder",
+                "image": "https://www.linkpicture.com/q/leader1_1.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Lotfi Zouad",
+                "title": "CTO & Co-Founder",
+                "image": "https://www.linkpicture.com/q/leader2.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Alexandre Patry",
+                "title": "COO & Co-Founder",
+                "image": "https://www.linkpicture.com/q/leader3.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            }
+        ],
+        "ourteam": [
+            {
+                "name": "Tanguy Nelly",
+                "title": "Chief Marketing Officer",
+                "image": "https://www.linkpicture.com/q/team1.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Kai Zhao",
+                "title": "Chief Communication Officer",
+                "image": "https://www.linkpicture.com/q/team2.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Ayeley Cmmodore",
+                "title": "Chief Business Development Officer",
+                "image": "https://www.linkpicture.com/q/team3.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Leonidas Samarai",
+                "title": "Head Design Officer",
+                "image": "https://www.linkpicture.com/q/team4.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Rhino Maximus",
+                "title": "Tech Lead Back-end",
+                "image": "https://www.linkpicture.com/q/team5.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Gaurav Korla Singh",
+                "title": "Tech Lead Front-end",
+                "image": "https://www.linkpicture.com/q/team6_1.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Pazido Sery",
+                "title": "Digital Content Officer",
+                "image": "https://www.linkpicture.com/q/team7.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            }
+        ],
+        "advisoryteam": [
+            {
+                "name": "Joel kovshoff",
+                "title": "Advisor",
+                "image": "https://www.linkpicture.com/q/advisory1.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Dennis Ijist",
+                "title": "Advisor",
+                "image": "https://www.linkpicture.com/q/advisory2.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Amir Elayyan",
+                "title": "Advisor",
+                "image": "https://www.linkpicture.com/q/advisory3.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Karry Kamal Karry",
+                "title": "Advisor",
+                "image": "https://www.linkpicture.com/q/advisory4.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Evan Luthra",
+                "title": "Advisor",
+                "image": "https://www.linkpicture.com/q/advisory5.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            },
+            {
+                "name": "Jonathan Faye",
+                "title": "Advisor",
+                "image": "https://www.linkpicture.com/q/advisory6.png",
+                "linkedin": "https://www.linkedin.com/in/alexandre-raffin/?originalSubdomain=fr",
+                "twitter": "https://twitter.com/alexandreraffin?lang=en",
+                "bio-text-1": "Alexandre is the Co-Founder and CEO of GAINS Associates, one of the largest, oldest and most active crypto communities in the world.",
+                "bio-text-2": "Alexandre holds a Master's degree in Computer Science. He is passionate about new technologies and can't wait to be a part of new and exciting revolutions that will positively transform the way we live."
+            }
+        ]
+    }
+}

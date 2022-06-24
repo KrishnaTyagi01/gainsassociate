@@ -1,0 +1,90 @@
+.btn-join {
+  /* border-radius: 17px; */
+  background-color: white;
+  padding: 13px 16px;
+  color: black;
+  border: 1px solid white;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: "Inter";
+  width: 252px;
+}
+
+.btn-join:hover {
+  background-color: #e0e0e0 !important;
+  border-color: #e0e0e0;
+}
+
+.fa-telegram-plane {
+  margin-left: 7px;
+}
+
+.btn-gain {
+  /* border-radius: 17px; */
+  font-family: "Inter";
+  background-color: #1e90fe;
+  padding: 5px 49px;
+  font-size: 18px;
+  color: white;
+  border: 1px solid transparent;
+  outline: none;
+  font-weight: 600;
+}
+.twitter .swiper-pagination {
+  display: none;
+}
+@media screen and (max-width: 460px) {
+  .twitter .swiper-pagination {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 978px) {
+  .in {
+    margin-bottom: 15px;
+  }
+}
+
+.deals-img {
+  height: 250px;
+}
+
+.card-custom .deals-img .img-effact {
+  position: relative;
+}
+.card-custom .deals-img:hover{
+  transform: scale(1.02);
+  transition: all 0.3s ease-in-out;
+}
+.card-custom .deals-img .img-effact::before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: #213dca52;
+  position: absolute;
+}
+
+.shadow-none {
+  box-shadow: none !important;
+}
+
+
+.price--box{
+      margin-top: 2rem;
+  display: flex;
+  max-width: 1370px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.price--box div div div{
+  background-color: transparent !important;
+  padding:0 !important;
+      gap: 0.6rem;
+}
+.price--box div div{
+      padding-top: 1rem !important;
+}
+.price--box > div{
+margin-left: 0.9rem;
+}

@@ -1,0 +1,139 @@
+@import "./variable.scss";
+
+.bigTitle {
+  font-size: 20px;
+  margin: 0;
+
+  @include media-breakpoint-up(lg) {
+    font-size: 32px;
+  }
+}
+
+.subNav {
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  background: #0f286a;
+  z-index: 2;
+  justify-content: space-around;
+
+  @include media-breakpoint-up(lg) {
+    transform: translateY(58px);
+    background-color: transparent;
+    width: fit-content;
+  }
+}
+
+.faqName {
+  font-size: 16px;
+  font-weight: 600;
+
+  @include media-breakpoint-up(md) {
+    font-size: 20px;
+  }
+}
+
+.faqCard {
+  position: relative;
+  overflow: hidden;
+
+  &.active {
+    &:after {
+      width: 105%;
+      content: " ";
+      height: 10px;
+      position: absolute;
+      // background: #f9fafc;
+      // border: 1px solid #f9fafc;
+      z-index: 11;
+      left: -5px;
+      bottom: 0;
+      // border-top: 1px solid #e8e8e8;
+    }
+
+    .faqCardName {
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    }
+  }
+
+  p {
+    font-size: 14px;
+
+    @include media-breakpoint-up(md) {
+      font-size: 16px;
+    }
+  }
+}
+
+.faqCardName {
+  color: #c4c4c4;
+  cursor: pointer;
+  border-bottom: 1px solid #1e90fe;
+}
+
+.faqCardTitle {
+  font-size: 14px;
+
+  @include media-breakpoint-up(md) {
+    font-size: 28px !important;
+    font-weight: 700;
+  }
+
+  &.active {
+    // color: #f8f7fa;
+    color: white;
+  }
+}
+
+.faqContent {
+  // border: 1px solid #e8e8e8;
+  p {
+    color: #f8f7fa;
+    line-height: 1.5;
+  }
+}
+
+.arrowUp {
+  transform: rotate(180deg);
+}
+
+.subNavBtn {
+  color: white;
+  font-size: 14px !important;
+  background: transparent;
+  border: none;
+  font-weight: 800;
+  text-align: left;
+  @include media-breakpoint-up(md) {
+    font-size: 26px !important;
+    // border: 1px solid #e8e8e8;
+  }
+}
+
+button:first-child.subNavBtn {
+  @include media-breakpoint-up(md) {
+    margin-top: 0px;
+    padding-top: 0px !important;
+  }
+}
+
+.activeSection {
+  color: #1e90fe;
+  border-bottom: 4px solid #1e90fe;
+
+  // @include media-breakpoint-up(md) {
+  //   border-bottom: 5px solid #1e90fe;
+  // }
+}
+
+.sticky {
+  position: sticky;
+  top: -1px;
+  z-index: 4;
+  // padding-top: 2rem;
+
+  @include media-breakpoint-down(lg) {
+    padding: 0 !important;
+    min-width: 100vw !important;
+  }
+}

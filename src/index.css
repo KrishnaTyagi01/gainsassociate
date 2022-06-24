@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Zuume";
+  src: local("Zuume Semi Bold Italic"), local("Zuume-Semi-Bold-Italic"),
+    url("./assets/fonts/Zuume/Zuume-SemiBoldItalic.woff2") format("woff2"),
+    url("./assets/fonts/Zuume/Zuume-SemiBoldItalic.woff") format("woff"),
+    url("./assets/fonts/Zuume/Zuume-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
