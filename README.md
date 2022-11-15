@@ -1,10 +1,3 @@
-
-
-### Changing Twitter API server address: 
-
-1. Go to src/consts.apiLinks.js
-2. Change the twitterApi variable's value to the desired twitter api route.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
