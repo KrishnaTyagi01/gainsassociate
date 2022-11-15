@@ -1,19 +1,3 @@
-### API tokens:
-
-1. Medium {
-  Access Token: 2a5c5dc000f1848bc52b7a909de9f81adf98d1f9cb489fbc60720726682a6716a,
-  userId: 16b3db3f566010786ff3e452655638706f1a809ad99af09084969e6f574fbc73a
-}
-
-2. Twitter: {
-  user_id: 999002076842782721,
-
-  Api_key: 4xb72EcgG4biKi8ORwWepbCzm,
-
-  Api_Secret_Key: CKSIHEcyYmy4xDnbmdr3NpbvEAe9ZECnNlEag8A6hG1MWnVTdT,
-
-  Bearer Token: AAAAAAAAAAAAAAAAAAAAAEjYSwEAAAAAmZBA9WBFO88scbfXA%2Floo%2Bf5H9s%3Djn05hViit1Zh0wAO1Ns7qThNQS6eULYY2PHKQYJ6RZw61fb9X4
-}
 
 
 ### Changing Twitter API server address: 
